@@ -1,10 +1,10 @@
 # Tabla de multiplicar CLI
 
-## Descripción 💫
+## Descripción  💫
 
 Esta es una aplicación de línea de comandos (CLI) que permite crear tablas de multiplicar en formato de archivo de texto. La aplicación está construida en Node.js y utiliza el paquete yargs para interpretar los argumentos de línea de comandos. También utiliza el paquete npm colors para agregar estilo a la consola y el módulo file system de Node.js para la creación de archivos .txt que se guardarán en la carpeta resultados.
 
-## Instalación 🔧
+## Instalación  🔧
 
 Para instalar la aplicación, primero clona este repositorio en tu máquina local. Asegúrate de tener Node.js instalado. Luego, abre una terminal y navega hasta la carpeta del repositorio. Ejecuta el siguiente comando:
 
@@ -20,7 +20,7 @@ npm install
 
 Esto instalará todas las dependencias necesarias para ejecutar la aplicación.
 
-## Uso 📌
+## Uso  📌
 
 Para utilizar la aplicación, abre una terminal y navega hasta la carpeta del repositorio. Ejecuta el siguiente comando:
 
@@ -40,17 +40,17 @@ Esto generará una tabla de multiplicar en la consola.
 
 Si deseas crear una tabla de multiplicar y guardarla en un archivo de texto, pero no quieres verla en la consola, simplemente omite el comando --l o -listado.
 
-## Tecnologías utilizadas 🛠️:
+## Tecnologías utilizadas  🛠️:
 
 - [Node.js](https://nodejs.org/en) 
 - [Yargs](https://yargs.js.org) 
 - [Colors](https://www.npmjs.com/package/colors) 
 - [File System](https://nodejs.org/docs/latest-v18.x/api/fs.html) 
 
-## Autor ✒️
+## Autor  ✒️
 - [@XNatzhu - Agustin Saravia]
 
-## Licencia📄
+## Licencia  📄
 ```
 ISC License
 ```
