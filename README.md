@@ -6,7 +6,7 @@ Esta es una aplicación de línea de comandos (CLI) que permite crear tablas de 
 
 Para instalar la aplicación, primero clona este repositorio en tu máquina local. Asegúrate de tener Node.js instalado. Luego, abre una terminal y navega hasta la carpeta del repositorio. Ejecuta el siguiente comando:
 
-** npm install **
+### npm install
 
 Esto instalará todas las dependencias necesarias para ejecutar la aplicación.
 
@@ -14,13 +14,13 @@ Esto instalará todas las dependencias necesarias para ejecutar la aplicación.
 
 Para utilizar la aplicación, abre una terminal y navega hasta la carpeta del repositorio. Ejecuta el siguiente comando:
 
-** node app.js --b [-base] --h [-hasta] --l **
+### node app.js --b [-base] --h [-hasta] --l 
 
 Reemplaza [base] con el número de la tabla de multiplicar que deseas crear y [hasta] con el número máximo para el que deseas crear la tabla. El comando --l o -listado es opcional. Si se incluye, se mostrará la tabla en la consola. Si no se incluye, se creará un archivo de texto con el nombre tabla-[base]-al-[limite].txt en la carpeta resultados.
 
 Por ejemplo, para crear la tabla de multiplicar del 5 hasta el 10 y mostrarla en la consola, ejecuta el siguiente comando:
 
-** node app.js  -base 3 -hasta 10 --l **
+### node app.js  -base 3 -hasta 10 --l 
 
 Esto generará una tabla de multiplicar en la consola.
 
