@@ -40,7 +40,7 @@ Esto generará una tabla de multiplicar en la consola.
 
 Si deseas crear una tabla de multiplicar y guardarla en un archivo de texto, pero no quieres verla en la consola, simplemente omite el comando --l o -listado.
 
-## Tecnologías utilizadas  🛠️:
+## Tecnologías utilizadas  🛠️
 
 - [Node.js](https://nodejs.org/en) 
 - [Yargs](https://yargs.js.org) 
